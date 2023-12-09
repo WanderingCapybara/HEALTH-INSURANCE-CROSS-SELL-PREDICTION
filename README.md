@@ -10,23 +10,13 @@ The dataset was obtained from Kaggle with the following link: [Health Insurance 
 
 ## Package and Libraries
 
-- pandas 2.1.1
-- numpy 1.26.0
-- matplotlib 3.7.0
-- matplotlib-inline 0.1.6
-- seaborn 0.12.2
-- scikit-learn 1.2.1
-- xgboost 1.7.6 
-- scipy 1.10.0
-
-## Table of Contents
-
-1. [Background](health_insurance_cross_sell_prediction.ipynb#background)
-2. [Data Exploration](health_insurance_cross_sell_prediction.ipynb#explor)
-3. [EDA](health_insurance_cross_sell_prediction.ipynb#eda)
-4. [Data Preprocessing](health_insurance_cross_sell_prediction.ipynb#preprocess)
-5. [Modeling](health_insurance_cross_sell_prediction.ipynb#model)
-6. [Predicting Test Data](health_insurance_cross_sell_prediction.ipynb#predict)
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
+- scipy
 
 ---
 
